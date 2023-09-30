@@ -1,5 +1,17 @@
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
+<svg height='50' width='300'>
+<text x='0' y='30' fill='white'>I</text>
+<text x='0' y='30' fill='white'> </text>
+<text x='0' y='30' fill='white'>L</text>
+<text x='0' y='30' fill='white'>O</text>
+<text x='0' y='30' fill='white'>V</text>
+<text x='0' y='30' fill='white'>E</text>
+<text x='0' y='30' fill='white'> </text>
+<text x='0' y='30' fill='white'>B</text>
+</svg>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
