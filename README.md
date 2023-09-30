@@ -10,7 +10,10 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true)](https://git.io/streak-stats)
+<h3> Some Stats </h3>
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 <!--
 **DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-⚠️⚠️⚠️ CITATION: https://dev.to/github/how-to-create-a-github-profile-readme-jha
+⚠️⚠️⚠️ CITATIONs: 
+- https://dev.to/github/how-to-create-a-github-profile-readme-jha
+- https://github-readme-streak-stats.herokuapp.com/demo/
 -->
