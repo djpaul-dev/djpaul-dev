@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
-<svg height='50' width='300'>
+<svg height='100%' width='100%' viewbox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http:www.w3.org/1999/xlink" version="1.1">
 <text x='0' y='30' fill='white'>I</text>
 <text x='0' y='30' fill='white'> </text>
 <text x='0' y='30' fill='white'>L</text>
