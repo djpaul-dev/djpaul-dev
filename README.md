@@ -1,26 +1,16 @@
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
-<svg height='100%' width='100%' viewbox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http:www.w3.org/1999/xlink" version="1.1">
-  <path id="path">
-    <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-  </path>
-  <text fill="white"><textPath xlink:href="#path">I love to build things that help people!</textPath></text>
-</svg>
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <h3> Skills and Technologies </h3>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,12 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<text x='0' y='30' fill='white'>I</text>
-<text x='0' y='30' fill='white'> </text>
-<text x='0' y='30' fill='white'>L</text>
-<text x='0' y='30' fill='white'>O</text>
-<text x='0' y='30' fill='white'>V</text>
-<text x='0' y='30' fill='white'>E</text>
-<text x='0' y='30' fill='white'> </text>
-<text x='0' y='30' fill='white'>B</text>
+⚠️⚠️⚠️ CITATION: https://dev.to/github/how-to-create-a-github-profile-readme-jha
 -->
