@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DJ.
+<h1 align="center"> 👋 Hi, I'm DJ.<\h1>
 
 <!--
 **DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
