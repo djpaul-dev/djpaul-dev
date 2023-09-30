@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ...
 
 <h3> Some Stats </h3>
-<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true)](https://git.io/streak-stats)</center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
