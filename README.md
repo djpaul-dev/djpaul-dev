@@ -10,14 +10,7 @@
   <path id="path">
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
   </path>
-<text x='0' y='30' fill='white'>I</text>
-<text x='0' y='30' fill='white'> </text>
-<text x='0' y='30' fill='white'>L</text>
-<text x='0' y='30' fill='white'>O</text>
-<text x='0' y='30' fill='white'>V</text>
-<text x='0' y='30' fill='white'>E</text>
-<text x='0' y='30' fill='white'> </text>
-<text x='0' y='30' fill='white'>B</text>
+  <text fill="white"><textPath xlink:href="#path">I love to build things that help people!</textPath></text>
 </svg>
 
 
@@ -48,4 +41,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<text x='0' y='30' fill='white'>I</text>
+<text x='0' y='30' fill='white'> </text>
+<text x='0' y='30' fill='white'>L</text>
+<text x='0' y='30' fill='white'>O</text>
+<text x='0' y='30' fill='white'>V</text>
+<text x='0' y='30' fill='white'>E</text>
+<text x='0' y='30' fill='white'> </text>
+<text x='0' y='30' fill='white'>B</text>
 -->
