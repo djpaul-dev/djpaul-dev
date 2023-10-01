@@ -17,6 +17,7 @@
 - 👯 I'm open to collaborating on anything that is open-source
 - 📫 You can reach me through my <a href="mailto: dhrubajyotipaul3@gmail.com">email</a> or contact me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a>
 
+-------
 
 ### Skills and Technologies
 
