@@ -1,3 +1,13 @@
+<!--
+**DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+⚠️⚠️⚠️ CITATIONs: 
+- https://dev.to/github/how-to-create-a-github-profile-readme-jha
+- https://github-readme-streak-stats.herokuapp.com/demo/
+- https://readme-typing-svg.demolab.com/demo/
+- https://shields.io/
+-->
+
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
 <!-- TODO: SVG ANIMATION -->
@@ -9,6 +19,7 @@
 
 
 <h3> Skills and Technologies </h3>
+
 ![](https://img.shields.io/badge/-Java%20-088D6E)
 ![](https://img.shields.io/badge/-Python%20-088D6E)
 ![](https://img.shields.io/badge/-C%20-088D6E)
@@ -23,28 +34,7 @@
 ![](https://img.shields.io/badge/-Scikit-Learn%20-088D6E)
 ![](https://img.shields.io/badge/-Tensorflow%20-088D6E)
 ![](https://img.shields.io/badge/-Git%20-088D6E)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&theme=dark&hide_border=true&card_width=900" alt="DJ's Github Stats"/>
 </p>
-
-<!--
-**DJPAUL2001/DJPAUL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-⚠️⚠️⚠️ CITATIONs: 
-- https://dev.to/github/how-to-create-a-github-profile-readme-jha
-- https://github-readme-streak-stats.herokuapp.com/demo/
-- https://readme-typing-svg.demolab.com/demo/
-- https://shields.io/
--->
