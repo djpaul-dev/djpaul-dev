@@ -20,7 +20,7 @@
 - ⚡ Fun Facts: I'm proficient in Bengali. My hobbies include cycling, cooking, gaming, programming, and watching movies. :-)
 - 📫 You can reach me through my <a href="mailto: dhrubajyotipaul3@gmail.com">email</a> or contact me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a>
 
--------
+--
 
 ### Skills and Technologies
 
