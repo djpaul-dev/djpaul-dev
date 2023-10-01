@@ -24,7 +24,7 @@
 
 ### Skills and Technologies
 
-![](https://img.shields.io/badge/-Java%20)
+![](https://img.shields.io/badge/-Java)
 ![](https://img.shields.io/badge/-Python%20-088D6E)
 ![](https://img.shields.io/badge/-C/C++%20-088D6E)
 ![](https://img.shields.io/badge/-JavaScript%20-088D6E)
