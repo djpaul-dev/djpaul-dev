@@ -13,7 +13,7 @@
 <h3> Some Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJPAUL2001&hide_border=true" alt="DJ's Github Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&hide_border=true&card_width=900" alt="DJ's Github Stats"/>
 </p>
 
 <!--
