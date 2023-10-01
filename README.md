@@ -10,7 +10,9 @@
 
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
-<!-- TODO: SVG ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+LOVE+BUILDING+TOOLS+TO+HELP+PEOPLE!" alt="Typing SVG" />
+</p>
 
 - 🎓 I studied Computer Science and Data Science at the University of Wisconsin-Madison
 - 🌱 I'm actively developing my skills pertaining to Machine Learning, Data Analytics, and Full-Stack Development
