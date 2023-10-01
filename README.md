@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/-Scikit-Learn%20-088D6E)
 ![](https://img.shields.io/badge/-Tensorflow%20-088D6E)
 ![](https://img.shields.io/badge/-Git%20-088D6E)
-![](https://img.shields.io/badge/-OOP%20-088D6E)
+![](https://img.shields.io/badge/-Object_Oriented_Programming%20-088D6E)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&theme=dark&hide_border=true&card_width=900" alt="DJ's Github Stats"/>
