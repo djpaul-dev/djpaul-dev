@@ -18,7 +18,7 @@
 - 📫 You can reach me through my <a href="mailto: dhrubajyotipaul3@gmail.com">email</a> or contact me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a>
 
 
-<h3> Skills and Technologies </h3>
+### Skills and Technologies
 
 ![](https://img.shields.io/badge/-Java%20-088D6E)
 ![](https://img.shields.io/badge/-Python%20-088D6E)
@@ -26,7 +26,6 @@
 ![](https://img.shields.io/badge/-JavaScript%20-088D6E)
 ![](https://img.shields.io/badge/-HTML/CSS%20-088D6E)
 ![](https://img.shields.io/badge/-SQL%20-088D6E)
-
 ![](https://img.shields.io/badge/-ReactJS%20-088D6E)
 ![](https://img.shields.io/badge/-Redux%20-088D6E)
 ![](https://img.shields.io/badge/-MongoDB%20-088D6E)
