@@ -25,16 +25,16 @@
 ### Skills and Technologies
 
 ![](https://img.shields.io/badge/-Java%20-000000)
-![](https://img.shields.io/badge/-Python%20-088D6E)
-![](https://img.shields.io/badge/-C/C++%20-088D6E)
-![](https://img.shields.io/badge/-JavaScript%20-088D6E)
-![](https://img.shields.io/badge/-HTML/CSS%20-088D6E)
-![](https://img.shields.io/badge/-SQL%20-088D6E)
-![](https://img.shields.io/badge/-MySQL%20-088D6E)
-![](https://img.shields.io/badge/-Scikit-Learn%20-088D6E)
-![](https://img.shields.io/badge/-Tensorflow%20-088D6E)
-![](https://img.shields.io/badge/-Git%20-088D6E)
-![](https://img.shields.io/badge/-Object_Oriented_Programming%20-088D6E)
+![](https://img.shields.io/badge/-Python%20-000000)
+![](https://img.shields.io/badge/-C/C++%20-000000)
+![](https://img.shields.io/badge/-JavaScript%20-000000)
+![](https://img.shields.io/badge/-HTML/CSS%20-000000)
+![](https://img.shields.io/badge/-SQL%20-000000)
+![](https://img.shields.io/badge/-MySQL%20-000000)
+![](https://img.shields.io/badge/-Scikit-Learn%20-000000)
+![](https://img.shields.io/badge/-Tensorflow%20-000000)
+![](https://img.shields.io/badge/-Git%20-000000)
+![](https://img.shields.io/badge/-Object_Oriented_Programming%20-000000)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&theme=dark&hide_border=true&card_width=900" alt="DJ's Github Stats"/>
