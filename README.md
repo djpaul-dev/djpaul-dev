@@ -1,16 +1,15 @@
 <h1 align="center"> 👋 Hi! I'm DJ. </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- TODO: SVG ANIMATION -->
+
+- 🎓 I studied Computer Science and Data Science at the University of Wisconsin-Madison
+- 🗨️ You can reach me through my <a href="mailto: dhrubajyotipaul3@gmail.com">email</a> or contact me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a>
 
 
 <h3> Skills and Technologies </h3>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-
-<h3> Some Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DJPAUL2001&theme=dark&hide_border=true&card_width=900" alt="DJ's Github Stats"/>
