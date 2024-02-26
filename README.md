@@ -18,8 +18,7 @@
 - 🌱 I'm actively developing my skills pertaining to Machine Learning, Data Analytics, and Full-Stack Development
 - 👯 I'm open to collaborating on anything that is open-source
 - ⚡ Fun Facts: I'm proficient in Bengali. My hobbies include cycling, cooking, gaming, programming, and watching movies. :-)
-- 📫 You can reach me through my <a href="mailto: dhrubajyotipaul3@gmail.com">email</a> or contact me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a>
-- 🌐 Check out my website at <a href="https://djpaul.dev">djpaul.dev</a>
+- 📫 You can reach me via <a href="mailto: dhrubajyotipaul3@gmail.com">email</a>, or find me on <a href="https://www.linkedin.com/in/dhruba-j-paul/">LinkedIn</a> and <a href="https://djpaul.dev">djpaul.dev</a>.
 
 -------
 
