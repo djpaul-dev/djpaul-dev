@@ -37,5 +37,6 @@
 ![](https://img.shields.io/badge/-Object_Oriented_Programming%20-000000)
 
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=djpaul-dev&theme=dark&hide_border=true&card_width=900" alt="GitHub Streak" /></a>
   <img src="https://github-readme-streak-stats-l9v14umrg-dj-pauls-projects.vercel.app?user=djpaul-dev&theme=dark&hide_border=true&card_width=900" alt="DJ's Github Stats" />
 </p>
