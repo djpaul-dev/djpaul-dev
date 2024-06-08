@@ -42,5 +42,5 @@
 </p>
 
 <!-- CSS INJECTION -->
-```math
-\ce{$&#x5C;unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/djpaul-dev/djpaul-dev/blob/main/bg.jpg?raw=True');]{x0000}$}
+<!-- ```math
+\ce{$&#x5C;unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/djpaul-dev/djpaul-dev/blob/main/bg.jpg?raw=True');]{x0000}$} -->
